@@ -8,7 +8,7 @@ npm install
 npm start
 
 ## GitHub
-Upload seluruh isi folder ini. Jangan upload node_modules atau p12.db.
+Upload seluruh isi folder ini. upload node_modules atau p12.db.
 
 ## Railway
 Connect this GitHub repository to Railway. Railway will use the Dockerfile and PORT.
